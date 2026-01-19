@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Deepak Giri",
+    "username": "deepak123",
+    "email": "deepak.giri@example.com",
+    "issuedBook": "Introduction to Algorithms",
+    "issuedDate": "2026-01-10",
+    "returnDate": "2026-01-24",
+    "subscriptionType": "Premium",
+    "subscriptionDate": "2026-01-01"
+  },
+  {
+    "id": 2,
+    "name": "Anita Sharma",
+    "username": "anita_s",
+    "email": "anita.sharma@example.com",
+    "issuedBook": "Clean Code",
+    "issuedDate": "2026-01-12",
+    "returnDate": "2026-01-26",
+    "subscriptionType": "Basic",
+    "subscriptionDate": "2026-01-05"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Verma",
+    "username": "rohanv",
+    "email": "rohan.verma@example.com",
+    "issuedBook": "Design Patterns",
+    "issuedDate": "2026-01-15",
+    "returnDate": "2026-01-29",
+    "subscriptionType": "Standard",
+    "subscriptionDate": "2026-01-03"
+  },
+  {
+    "id": 4,
+    "name": "Priya Singh",
+    "username": "priya_singh",
+    "email": "priya.singh@example.com",
+    "issuedBook": "JavaScript: The Good Parts",
+    "issuedDate": "2026-01-16",
+    "returnDate": "2026-01-30",
+    "subscriptionType": "Premium",
+    "subscriptionDate": "2026-01-02"
+  },
+  {
+    "id": 5,
+    "name": "Akash Mehra",
+    "username": "akashm",
+    "email": "akash.mehra@example.com",
+    "issuedBook": "Python Crash Course",
+    "issuedDate": "2026-01-18",
+    "returnDate": "2026-02-01",
+    "subscriptionType": "Basic",
+    "subscriptionDate": "2026-01-06"
+  }
+]

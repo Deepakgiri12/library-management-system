@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "genre": "Computer Science",
+    "price": 950,
+    "publisher": "MIT Press"
+  },
+  {
+    "id": 2,
+    "name": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Software Engineering",
+    "price": 750,
+    "publisher": "Prentice Hall"
+  },
+  {
+    "id": 3,
+    "name": "Design Patterns",
+    "author": "Erich Gamma",
+    "genre": "Software Design",
+    "price": 850,
+    "publisher": "Addison-Wesley"
+  },
+  {
+    "id": 4,
+    "name": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "genre": "Programming",
+    "price": 600,
+    "publisher": "O'Reilly Media"
+  },
+  {
+    "id": 5,
+    "name": "Python Crash Course",
+    "author": "Eric Matthes",
+    "genre": "Programming",
+    "price": 650,
+    "publisher": "No Starch Press"
+  },
+  {
+    "id": 6,
+    "name": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Software Development",
+    "price": 700,
+    "publisher": "Addison-Wesley"
+  },
+  {
+    "id": 7,
+    "name": "Effective Java",
+    "author": "Joshua Bloch",
+    "genre": "Programming",
+    "price": 800,
+    "publisher": "Pearson"
+  },
+  {
+    "id": 8,
+    "name": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "genre": "Programming",
+    "price": 550,
+    "publisher": "O'Reilly Media"
+  }
+]
